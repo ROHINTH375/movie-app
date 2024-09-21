@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: beige;
+}
+
+.home-page, .movie-page {
+    text-align: center;
+    margin: 20px;
+
+}
+.search-bar{
+    margin-bottom:20px;
+}
+.movie-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
